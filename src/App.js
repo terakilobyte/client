@@ -60,7 +60,7 @@ export class App extends Component {
         <Grid container spacing={24}>
           <Grid item xs={3} />
           <Grid item xs={6}>
-            <h1 className={classes.title}>Toodo</h1>
+            <h1 className={classes.title}>Todo</h1>
           </Grid>
           <Grid item xs={3} />
           <Grid item xs={3} className={classes.addTask}>
