@@ -25,6 +25,7 @@ const styles = theme => ({
     justifyContent: "space-around",
   },
 })
+
 export class App extends Component {
   componentDidMount() {
     this.props.onFetchTasks()
